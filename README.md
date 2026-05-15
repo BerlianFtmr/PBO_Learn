@@ -2,6 +2,7 @@
 ## UTS SEMESTER 4
 ### by IAN
 
+#### Latihan Soal 01
 
 Deskripsi:
 Anda diminta membuat program untuk menghitung total tagihan penyewa apartemen. Setiap penyewa memiliki biaya dasar, namun mendapatkan diskon progresif berdasarkan lama mereka menyewa dan tipe kamar yang mereka pilih.
